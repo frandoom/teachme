@@ -3,7 +3,7 @@ html {
 }
 
 .wrapper {
-    border: 10px solid black;
+    border: 8px solid white;
     border-radius: 75px;
 }
 
@@ -14,20 +14,7 @@ nav {
 }
 
 .logo {
-    width: 100px;
     padding-left: 24px;
     padding-top: 14px;
     padding-bottom: 10px;
-}
-
-.tiktok {
-    width: 28px;
-}
-
-.ig {
-    width: 32px;
-}
-
-.fb {
-    width: 32px;
 }
